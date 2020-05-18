@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SimpleRSSExample</string>
+    <string name="get_detail">Get detail</string>
 </resources>
